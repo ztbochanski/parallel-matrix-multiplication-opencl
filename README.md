@@ -12,7 +12,7 @@ Implementation of an OpenCL matrix multiplication application with the following
 	- Operating system used: `Linux`
 	- The compiler used: `g++`
 2. Experiment visualizations
-	- Table of total matrix size and total local size vs performance values![[styled_table.svg]]
+	- Table of total matrix size and total local size vs performance values![[styled_table.svg]](https://github.com/ztbochanski/parallel-matrix-multiplication-opencl/blob/53d3cb9c3b8c3d55df6dfac2f4422e57f38f618d/styled_table.svg)
 	- Graph 1 Performance Vs. Total Matrix Size![performance_total_size.svg](https://github.com/ztbochanski/parallel-matrix-multiplication-opencl/blob/2d6d2c26c318028fd0aaa8c6e8a20a8527503ff5/performance_total_size.svg)
 	- Graph 2 Performance. Vs. Total Local. Size![[performance_local_size.svg]](https://github.com/ztbochanski/parallel-matrix-multiplication-opencl/blob/46777330129d7d73b3a80e8478e1f0dd4efd6edb/performance_local_size.svg)
 3. What patterns are you seeing in the performance curves? What difference does the size of the matrices make? What difference does the size of each work group make?
